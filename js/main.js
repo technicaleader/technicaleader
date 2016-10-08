@@ -227,7 +227,7 @@ BRUSHED.tweetFeed = function(){
 	var valueTop = -64; // Margin Top Value
 
     $("#ticker").tweet({
-          modpath: '_include/js/twitter/',
+          modpath: 'js/twitter/',
           username: "battaglia_marco", // Change this with YOUR ID
           page: 1,
           avatar_size: 0,
@@ -410,7 +410,7 @@ $(document).ready(function(){
 	Modernizr.load([
 	{
 		test: Modernizr.placeholder,
-		nope: '_include/js/placeholder.js',
+		nope: 'js/placeholder.js',
 		complete : function() {
 				if (!Modernizr.placeholder) {
 						Placeholders.init({
