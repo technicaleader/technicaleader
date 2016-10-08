@@ -78,10 +78,10 @@ BRUSHED.slider = function(){
 		thumbnail_navigation    :   0,			// Thumbnail navigation
 		slides 					:  	[			// Slideshow Images
 											//{image : '_include/img/slider-images/image03.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''},
-											{image : '_include/img/slider-images/image02bis.jpg', title : '<div class="slide-content" style="line-height:50px"><center>The potential goldmine of big data.<br/>Analyzing big data can yield valuable insights <br/>that you can use to improve your business <br/>and find new ways to boost profits. <br/><center>Numbers don\'t lie.</center></div>', thumb : '', url : ''},
-											{image : '_include/img/slider-images/image01.jpg', title : '<div class="slide-content">Big Data<br/> Fast Events Streams <br/> Software Solutions<br/><br/><div style="color:#333333">Technicaleader is a software house<br/> focused on big data<br/> and integration projects.</div></div>', thumb : '', url : ''},
+											{image : 'img/slider-images/image02bis.jpg', title : '<div class="slide-content" style="line-height:50px"><center>The potential goldmine of big data.<br/>Analyzing big data can yield valuable insights <br/>that you can use to improve your business <br/>and find new ways to boost profits. <br/><center>Numbers don\'t lie.</center></div>', thumb : '', url : ''},
+											{image : 'img/slider-images/image01.jpg', title : '<div class="slide-content">Big Data<br/> Fast Events Streams <br/> Software Solutions<br/><br/><div style="color:#333333">Technicaleader is a software house<br/> focused on big data<br/> and integration projects.</div></div>', thumb : '', url : ''},
 
-											{image : '_include/img/slider-images/image04v5.jpg', title : '<div class="slide-content" >Lean and Agile <br/>project management<br/><br/> <div style="color:#333333">Guaranteed business results<br/>We improve your chances of success</div>', thumb : '', url : ''}
+											{image : 'img/slider-images/image04v5.jpg', title : '<div class="slide-content" >Lean and Agile <br/>project management<br/><br/> <div style="color:#333333">Guaranteed business results<br/>We improve your chances of success</div>', thumb : '', url : ''}
 									],
 
 		// Theme Options
