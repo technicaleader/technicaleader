@@ -195,7 +195,7 @@ BRUSHED.contactForm = function(){
 		var fields = $contact_form.serialize();
 
 		$.ajax({
-			type: "GET",
+			type: "POST",
 		url: "http://www.technicaleader.com/mail.aspx",
 			data: fields,
 			success: function(response) {
