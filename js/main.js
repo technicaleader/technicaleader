@@ -196,8 +196,7 @@ BRUSHED.contactForm = function(){
 
 		$.ajax({
 			type: "GET",
-		url: "http://websitesupport-cloudshape.rhcloud.com/sendMail.jsp",
-		//	url: "http://127.0.0.1:8080/mail/sendMail.jsp",
+		url: "http://www.technicaleader.com/mail.aspx",
 			data: fields,
 			success: function(response) {
 
