@@ -198,7 +198,7 @@ BRUSHED.contactForm = function(){
 			type: "POST",
 		url: "http://www.technicaleader.com/mail.aspx",
 			data: fields,
-			headers: {  'Access-Control-Allow-Origin': 'http://www.technicaleader.com' },
+			headers: {  'Access-Control-Allow-Origin': 'http://www.technicaleader.it' },
    			success: function(response) {
 
 				if(response.indexOf("received")>1){
